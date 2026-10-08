@@ -5,6 +5,8 @@ import java.util.Scanner;
 public class MainZ13 {
     static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+
+        System.out.println("начало");
         System.out.println("введите n: ");
         int n = scanner.nextInt();
 
