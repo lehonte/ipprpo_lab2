@@ -21,6 +21,6 @@ public class MainZ13 {
 
             if (simple) System.out.print(i + " ");
         }
-
+        System.out.println("конец");
     }
 }
